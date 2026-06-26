@@ -55,6 +55,6 @@ Installation (Kurzform)
 
 Für eine schnelle Einrichtung in einem virtuellen Environment:
 python3 -m venv venv && source venv/bin/activate && pip install requests
-Konfiguration
+Konfiguration  
 
 Das Tool nutzt eine model-conf.txt Datei, um die Modelle, Parameter und Prompts zu definieren. Die Ergebnisse werden im lokalen Verzeichnis als .py Dateien mit einer #EOF-Markierung am Ende gespeichert.
